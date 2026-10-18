@@ -17,6 +17,7 @@ This project analyzes medical insurance costs using Microsoft Excel. The objecti
 - Pivot Charts
 - Data Cleaning
 - Dashboard Design
+<img width="1197" height="584" alt="Screenshot 2026-10-18 at 9 46 00 am" src="https://github.com/user-attachments/assets/752bba8b-6674-499e-a730-a4e1d78b5dd4" />
 
 ## Analysis Process
 1. Cleaned and reviewed the dataset.
